@@ -15,4 +15,4 @@ Python3.9 e SQLite
 Cadastro de Produto\
 Cadastro de Cliente\
 Venda\
-Estoque\
+Estoque
