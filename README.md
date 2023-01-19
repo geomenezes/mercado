@@ -1,12 +1,18 @@
-Projeto de mercado
+# Projeto de mercado
 
-Descrição: Neste projeto, cadastramos produtos, gerenciamos estoque, realizamos vendas
+Em desenvolvimento
 
-Stack: Python3.9 e SQLite
+## Descrição
 
-Módulos:
+Neste projeto, cadastramos produtos, gerenciamos estoque, realizamos vendas
 
-Cadastro de Produto;
-Cadastro de Cliente;
-Venda;
-Estoque;
+## Stack
+
+Python3.9 e SQLite
+
+## Módulos
+
+Cadastro de Produto\
+Cadastro de Cliente\
+Venda\
+Estoque\
